@@ -1,0 +1,20 @@
+In this class i learnt about loops.
+
+There is 3 types of loop in java:
+    1 for loop:-
+        Syntax:- for(initilisation; condition;      updation){
+            code...
+        }
+
+    2 while loop:-
+        Syntax:- while(condition){
+            code...
+            updation...
+        }
+
+    3 do while loop:-
+        Syntax:- do{
+            code....
+
+            updation...
+        }while(condition)

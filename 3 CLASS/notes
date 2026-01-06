@@ -1,0 +1,17 @@
+Conditional Statements
+
+    If, else:-
+
+        if(condition){
+            Statements;
+        }
+        else{
+            Statements;
+        }
+    
+    else if:- it is used when we have more then 2 conditions in our problem
+
+
+    switch case:- 
+    break
+
