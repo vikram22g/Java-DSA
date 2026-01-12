@@ -1,0 +1,108 @@
+ ---
+
+# 📘 DSA Short Notes (Today’s Learning)
+
+## 1. What is Time Complexity?
+
+Time Complexity tells us **how fast our code runs** as input size (**n**) increases.
+It helps us compare which solution is **faster and better**.
+
+Example:
+
+* One loop → O(n)
+* Two nested loops → O(n²)
+
+---
+
+## 2. What is Space Complexity?
+
+Space Complexity tells us **how much extra memory** our program uses.
+
+* No extra variable/array → O(1)
+* Array of size n → O(n)
+
+---
+
+## 3. Why Time & Space Complexity is Important?
+
+* To write **efficient code**
+* To handle **large data**
+* Very important for **interviews**
+* Helps you think like a **software engineer**
+
+---
+
+## 4. Big-O Basic Rules
+
+* Ignore constants
+* Focus on growth with **n**
+* Worst-case is considered
+
+Examples:
+
+* O(2n), O(5n) → O(n)
+* O(n + 10) → O(n)
+
+---
+
+## 5. Loop Patterns & Complexity
+
+| Code Pattern        | Time Complexity |
+| ------------------- | --------------- |
+| No loop             | O(1)            |
+| Single loop         | O(n)            |
+| Nested loops        | O(n²)           |
+| Loop doubles/halves | O(log n)        |
+
+---
+
+## 6. What is O(log n)?
+
+When value is **divided or multiplied** in each step.
+
+Examples:
+
+* `i = i * 2`
+* `i = i * 3`
+* `n = n / 2`
+
+👉 Time Complexity = **O(log n)**
+(Base does not matter)
+
+---
+
+## 7. Important Rule (Very Easy)
+
+* **Multiply / Divide → log n**
+* **Add / Subtract → n**
+
+---
+
+## 8. Ignore Constants Rule
+
+* O(100) → O(1)
+* O(3n) → O(n)
+* O(n + 5) → O(n)
+* Do NOT ignore powers like n²
+
+---
+
+## 9. Meaning of `^`
+
+* In **Math / DSA explanation** → power (2³ = 8)
+* In **Java** → XOR operator (not power)
+
+Power in Java:
+
+```java
+Math.pow(2, 3)
+```
+
+---
+
+## ⭐ One-Line Summary
+
+**Time & Space Complexity helps us write fast, smart, and professional code.**
+
+---
+
