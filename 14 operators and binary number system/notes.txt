@@ -1,0 +1,37 @@
+Airthmetic Operators:
+    Binary:
+       1. "+"
+       2. "-"
+       3. "*"
+       4. "/"
+       5. "%"
+    
+    Unary:
+        1."++" 
+            a).Pre Increment:
+                ++a
+            b).Post Increment:
+                a++
+        2."--"
+            a).Pre Decrement:
+                ++a
+            b).Post Decrement:
+                a++
+
+
+Relational Operators:
+    1. "=="
+    2. "!="
+    3. ">"
+    4. "<"
+    5. ">="
+    6. "<="
+
+
+Logical Operators:
+   1. && (logical and)
+   2. || (logical or)
+   3. ! (logical not)
+
+
+Binary Number System:                        
