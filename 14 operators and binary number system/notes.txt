@@ -34,4 +34,9 @@ Logical Operators:
    3. ! (logical not)
 
 
-Binary Number System:                        
+Assignment Operators;
+    1. "="
+    2. "+="
+    3. "-="
+    4. "*="
+    5. "/="                  

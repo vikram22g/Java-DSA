@@ -76,6 +76,24 @@ public class operators{
         }
 
 
+        // Assignment Operator 
+
+        System.out.println("Assignemetn Operators: ");
+
+        a=b; // a contais 10 and b has 20 in this operation a=b means a=20;
+        System.out.println(a);
+
+        a+=2; // it means a=a+2
+        System.out.println(a);
+
+        a-=2; // it means a=a-2
+        System.out.println(a);
+
+        a*=2; // it means a=a*2
+        System.out.println(a);
+
+        a/=2; // a=a/2
+        System.out.println(a);
         
 
     
