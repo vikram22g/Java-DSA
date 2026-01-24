@@ -1,16 +1,10 @@
 import java.util.*;
 
 public class evenORodd{
-    public static int EvenOdd(int n){
-        int pos= 0;
+    public static int EvenOdd(int n){ 
         int bitmask= 1<<0;
-        int ans= bitmask & n;
-        if(ans == 0){
-            return 0;
-        }
-        else{
-            return 1;
-        }
+        return (bitmask & n);
+        
     }
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
