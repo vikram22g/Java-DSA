@@ -16,7 +16,7 @@ public class evenORodd{
             break;
             case 1: System.out.println("number is odd.");
             break;
-            default: System.out.println("error!!");
+            default: System.out.println("zero!!");
         }
     }
 }
